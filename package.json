@@ -1,6 +1,6 @@
 {
-  "name": "react-native-chart-kit",
-  "version": "1.2.1.1",
+  "name": "expo-chart-kit",
+  "version": "1.2.2",
   "devDependencies": {
     "babel-eslint": "^8.2.5",
     "eslint-config-xo-react": "^0.17.0",
@@ -12,6 +12,10 @@
     "react-native-scripts": "1.14.0",
     "react-test-renderer": "16.4.1",
     "xo": "^0.21.1"
+  },
+  "repository": {
+    "url": "https://github.com/phanoophong/react-native-chart-kit.git",
+    "type": "git"
   },
   "_main": "./node_modules/react-native-scripts/build/bin/crna-entry.js",
   "main": "./index.js",
